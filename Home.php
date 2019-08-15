@@ -20,7 +20,9 @@
 <h3><a href="photo 1.php">Photo 1</a><br></h3>
 <h3><a href="photo 2.php">Photo 2</a><br></h3>
 <h3><a href="Photo 3.php">Photo 3</a><br></h3>
-<h3><a href="index.php">Log out</a><br></h3>
+<div><center>
+<button type="submit" class="button-block"/><a href="index.php">Log Out</a>
+        </div></center>
 </nav></center></font>
 
 </body>

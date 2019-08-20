@@ -14,7 +14,7 @@
 <center><img src="photo 2.2.jpg" width="500" height="600"></center>
 
 
- <p align="right"><font size= "5"><a href="Photo 2.1.php">Previous</a></right></font>
+ <p align="right"><font size= "5"><a href="photo 2.1.php">Previous</a></right></font>
 </p>
 
  <p align="left"><font size= "5"><a href="Home.1.php">Go Back to Home</a></font></p>

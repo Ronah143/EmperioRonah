@@ -8,7 +8,7 @@
 
   <header>
 
-    <h1><center><font size= "15">EmperioR Login</font></center></h1>
+    <h1><center><font size= "15">Log in</font></center></h1>
 
   </header>
 

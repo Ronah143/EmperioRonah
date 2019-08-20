@@ -16,7 +16,7 @@
 
 
  <p align="right"><font size= "5"><a href="https://emperioronahjay-photogallery.herokuapp.com/photo%202.php">Next</a></font></p>
-<p align="left"><font size= "5"><a href="https://emperioronahjay-photogallery.herokuapp.com/">Go Back to Home</a></font></p>
+<p align="left"><font size= "5"><a href="https://emperioronahjay-photogallery.herokuapp.com/Home.php">Go Back to Home</a></font></p>
 
 </body>
 </html>

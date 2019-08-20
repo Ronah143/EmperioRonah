@@ -8,7 +8,7 @@
 
   <header>
 
-    <h1><center><font size= "15">EmperioR Login</font></center></h1>
+    <h1><center><font size= "15">Log in</font></center></h1>
 
   </header>
 
@@ -57,7 +57,7 @@
           <div><center>
 <button type="submit" class="button button-block"/>
 <nav><center><font size= "3">
-<a href="https://emperioronahjay-photogallery.herokuapp.com/">Sign In</a>
+<a href="Home.php">Sign In</a>
 </nav></center><font></button>
 
           </form>

@@ -16,7 +16,7 @@
 
   <div><center>
 
-    <label for="E-mail"><font size= "5">E-mail:</font></label>
+    <label for="username"><font size= "5">Username:</font></label>
 
     <input type="text" id="username" name="username">
 
@@ -34,12 +34,20 @@
 
 </div></center>
 
-         
+
+
+<div><center>
+<button type="submit class="button-block"/><a href="Proceed.php">Sign In</a><br>
+</div></center>
 
           </form>
 
 <div><center>
-<button type="Reset" class="button-block"/><a href="index.1.php">Reset Password</a></button>
+<button type="submit" class="button-block"/><a href="Reset Password.php">Reset Password</a>
+
+
+<div><center>
+<button type="submit" class="button-block"/><a href="Sign-Up.php">Sign Up</a>
         </div></center>
 
 </body>
